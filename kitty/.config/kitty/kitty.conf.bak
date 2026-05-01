@@ -4,6 +4,7 @@
 # bold_italic_font auto
 
 font_size 12.0
+background_opacity 0.85
 
 
 # BEGIN_KITTY_FONTS
@@ -14,6 +15,6 @@ bold_italic_font auto
 # END_KITTY_FONTS
 
 # BEGIN_KITTY_THEME
-# Tokyo Night Moon
+# Adwaita darker
 include current-theme.conf
 # END_KITTY_THEME
